@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Ravalnath Cooperative",
+    "slug": "ravalnath-cooperative",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/slpash-image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.idsspl.idsspl",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "0b657b5a-baf2-4291-9da9-3ca445f98051"
+      }
+    }
+  }
+}

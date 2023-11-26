@@ -1,0 +1,5 @@
+export const SET_USER = "SET_USER";
+export const SET_BENIFICIERY_LIST = "SET_BENIFICIERY_LIST";
+export const SET_STATEMENT = "SET_STATEMENT";
+export const SET_MY_ACCOUNTS = "SET_MY_ACCOUNTS";
+export const SET_MY_TOOL_TIP = "SET_MY_TOOL_TIP";
